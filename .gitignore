@@ -1,6 +1,0 @@
-# ignore target folder
-.idea/
-
-# ignore Eclipse files
-build/
-
